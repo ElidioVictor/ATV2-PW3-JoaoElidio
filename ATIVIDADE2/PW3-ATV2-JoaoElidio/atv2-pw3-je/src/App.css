@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 40%;
+}
+
+.form{
+  text-align: justify;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  max-width: 300px;
+  min-width: 300px;
+  border: 3%;
+  gap: 5px;
+}
+
+.noArrow::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
